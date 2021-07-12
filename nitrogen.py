@@ -3,7 +3,7 @@ import string
 import os
 import colorama
 from colorama import Fore
-code = ""
+code = "20"
 
 
 def Home():
